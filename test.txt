@@ -2,4 +2,8 @@ This is an edit on the master branch.
 
 This is an edit on the new-branch branch. I can see the master edit to the test file, wow.
 
+<<<<<<< HEAD
 Will you overwrite me though? This is master branch edited AFTER making a change on new-branch on this same line.
+=======
+This is another edit on new-branch branch.
+>>>>>>> new-branch
